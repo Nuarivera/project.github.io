@@ -7,5 +7,5 @@ Yo!
 
 ### Deploy it in 7 seconds: 
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+[!https://github.com/Nuarivera/project.github.io/blob/8448feb9bffde2957568fa4cb6c550e0af86f3a9/index.js/)
 
